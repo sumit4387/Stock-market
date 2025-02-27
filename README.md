@@ -17,7 +17,7 @@ Run tests:
 To run tests from the command line use `python -m unittest -v <path to test file>`. For example, the integration test
 story can be run with `python -m unittest -v tests/test_story1.py`.
 
-## Assumptions made:
+## Please note . few assumptions:
 
 - Fixed dividends only occur in stocks with type preferred.
 - The formula to calculate the P/E Ratio is unclear regarding the `Dividend` variable. This project
